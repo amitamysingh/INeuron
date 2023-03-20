@@ -1,6 +1,9 @@
 package ClassPractice.encapsulation;
 
 class Student{
+	//If a class has only private members it is called as bean
+	//Private variables can't be accessed by/from within any other class directly
+	//Data-hiding/binding
 	private String name;
 	private int age;
 	private String city;
