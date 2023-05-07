@@ -1,0 +1,47 @@
+package in.ineuron.test;
+
+import java.sql.SQLException;
+import org.hibernate.HibernateException;
+import org.hibernate.Session;
+import org.hibernate.Transaction;
+
+import in.ineuron.model.Student;
+import in.ineuron.utility.HibernateUtil;
+
+public class SaveApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Session session = null;		
+		Transaction transaction = null;
+		try {
+			session=HibernateUtil.getSession();
+			
+			if(session != null) {
+				transaction=session.beginTransaction();
+			}
+			
+			if(transaction != null) {
+				Student student = new Student();
+				student.setSid(18);
+				student.setSname("Kohli");
+				student.setSage(34);
+				student.setSaddress("RCB");
+			}
+			
+		}
+		catch(HibernateException he) {
+			System.out.println("Hibernate Exception occured");
+			he.printStackTrace();
+		}
+		catch(SQLException se) {
+			System.out.println("SQL Exception occured");
+			se.printStackTrace();
+		}
+		catch(Exception e) {
+			System.out.println("Exception occured");
+			e.printStackTrace();
+		}
+	}
+
+}

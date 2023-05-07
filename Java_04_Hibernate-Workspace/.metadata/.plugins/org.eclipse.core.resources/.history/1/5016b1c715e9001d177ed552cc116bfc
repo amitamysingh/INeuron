@@ -1,0 +1,15 @@
+package in.ineuron.test;
+
+public class TestApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//1. Inform JVM to activate Hibernate
+		
+		//2. Create Persistence Object
+		
+		//3. Perform persistence operation using Entity/Model/POJO Object
+	}
+
+}

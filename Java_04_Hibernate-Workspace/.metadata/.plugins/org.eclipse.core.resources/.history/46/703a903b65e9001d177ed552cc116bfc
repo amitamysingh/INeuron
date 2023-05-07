@@ -1,0 +1,27 @@
+package in.ineuron.test;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class TestApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//1. Inform JVM to activate Hibernate
+		Configuration configuration = new Configuration();
+		configuration.configure();
+		
+		SessionFactory sessionFactory=configuration.buildSessionFactory();
+		Session session=sessionFactory.openSession();
+		
+				
+		//2. Create Persistence Object
+		Student student=new Student();
+		
+		
+		//3. Perform persistence operation using Entity/Model/POJO Object
+	}
+
+}
