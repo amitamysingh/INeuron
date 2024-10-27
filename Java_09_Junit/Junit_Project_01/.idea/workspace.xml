@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7ec5ab95-3c4e-46e4-808e-3bdabc3e30d7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DSA_LearningsPrograms/Maven_04_JDBC_SelectApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA_LearningsPrograms/Maven_04_JDBC_SelectApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DSA_LearningsPrograms/Maven_04_JDBC_SelectApp/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_05_MavenSpring/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_05_MavenSpring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_05_MavenSpring/src/main/java/in/ineuron/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_05_MavenSpring/src/test/java/in/ineuron/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_06_MavenInheritence/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_06_MavenInheritence/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_06_MavenInheritence/src/test/java/in/pwskills/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_08_IDEMavenWebApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_08_IDEMavenWebApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_08_IDEMavenWebApp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_08_IDEMavenWebApp/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_09_ServletJSPJDBCApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_09_ServletJSPJDBCApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_09_ServletJSPJDBCApp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_09_ServletJSPJDBCApp/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_10_MultiModuleProjectParent/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_10_MultiModuleProjectParent/WishService/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_10_MultiModuleProjectParent/WishService/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_10_MultiModuleProjectParent/WishService/src/test/java/com/pwskills/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_10_MultiModuleProjectParent/WishWebApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_10_MultiModuleProjectParent/WishWebApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_10_MultiModuleProjectParent/WishWebApp/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_10_MultiModuleProjectParent/WishWebApp/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_10_MultiModuleProjectParent/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_11_LoggingApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_11_LoggingApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_11_LoggingApp/src/test/java/in/ineuron/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_12_Log4jProperties/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_12_Log4jProperties/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_12_Log4jProperties/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_12_Log4jProperties/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_12_Log4jProperties/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_12_Log4jProperties/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_12_Log4jProperties/src/main/java/in/ineuron/JdbcApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_12_Log4jProperties/src/test/java/in/ineuron/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_13_Log4jPropertiesMultipleLayoutAppender/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_13_Log4jPropertiesMultipleLayoutAppender/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_13_Log4jPropertiesMultipleLayoutAppender/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_13_Log4jPropertiesMultipleLayoutAppender/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_13_Log4jPropertiesMultipleLayoutAppender/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_13_Log4jPropertiesMultipleLayoutAppender/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_13_Log4jPropertiesMultipleLayoutAppender/src/main/java/in/ineuron/JdbcApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_13_Log4jPropertiesMultipleLayoutAppender/src/main/java/in/ineuron/cfgs/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java_07_Maven/Maven_13_Log4jPropertiesMultipleLayoutAppender/src/test/java/in/ineuron/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeProjects/Project01_EmployeeManagementSystem/CoreJava_Practice_MethodOverloading_01/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeProjects/Project01_EmployeeManagementSystem/CoreJava_Practice_MethodOverloading_01/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeProjects/Project01_EmployeeManagementSystem/CoreJava_Practice_MethodOverloading_01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeProjects/Project01_EmployeeManagementSystem/CoreJava_Practice_MethodOverloading_01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeProjects/Project01_EmployeeManagementSystem/CoreJava_Practice_MethodOverloading_01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeProjects/Project01_EmployeeManagementSystem/CoreJava_Practice_MethodOverloading_01/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeProjects/Project01_EmployeeManagementSystem/CoreJava_Practice_MethodOverloading_01/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PracticeProjects/Test/untitled/src/main/java/org/constructor/SuperThisKeyword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/1/003bfb8a68eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/1/5016b1c715e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/1/a03ab6776ceb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/1/b0d9dc5bf9ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/12/f0339b7c13e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/14/0000b5aef8ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/14/20edb46cc3eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/16/70c83db465e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/17/703b97d75aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/1b/70d7c9946aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/1c/5069f676f9ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/1d/d0111cf7c5eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/20/b0bac85e67e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/22/e0758b1e13e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/28/308ff28867eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2a/c09cc5505ceb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2b/405eab7fd0e9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2e/80a251882eea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2f/90ffa0e85beb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/2f/d03d72d331ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/32/30de8a7bfcea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/34/d0a087f400eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/36/803c7ead2eea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/36/f09c7cb305e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/37/70df9f27d8e9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/38/f055af515beb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3d/902d29016aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/3e/d01050c9f8ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/40/00bce06bf9ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/40/a0a879ad2eea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/42/f06698c7c2eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/44/908649506aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/46/703a903b65e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4c/90adb4096aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/4e/b05f6165f9ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/50/f00b139a31ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/50/f097b5096aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/54/30617b51f9ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/56/10dcd6d2cce9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/56/5019b1745eeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/57/00478c5e61eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/5a/10ee79bb02e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/5c/20224dd600eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/5c/400b7c0ba5e8001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/67/a05a8e8b65eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/68/10f527016aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/69/0001ab5601e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/69/50228e0b16e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/6b/5063d910f6ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/6d/8052123bc3eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/7/a060ca6c65eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/7/d08bdd0f01e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/70/50784fd830ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/70/80868c4c65e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/72/10d2513ddde9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/72/c0fa83a06deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/73/0009b7686aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/73/a01dd859c8e9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/74/b0705e7b30ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/76/b03b814ff5ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/78/80c3659a68eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/80/8003fdb061eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/82/503edf66c3eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/85/f00bb4fd64e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/89/80514feb6deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8a/60f8d1bcd0e9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8c/10c5dba965eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8c/606a8e4f5eeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8d/20c9462cc3eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/8e/5012f8da5deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9/501293595deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/92/e0ec13d16deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/95/4029b0c400eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/95/e01e8b39a5e8001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/98/90a566805deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9a/009ae08a5beb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9a/50308e595deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9c/00a88dbec6eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/9e/f0bd18c0dbe9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a/60ad6094c2eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a0/40523eb6f8ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a1/1034109761eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a4/104909cc66e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a4/9094ebe15aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a4/b0f3fc675deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a5/407bc01cc3eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a6/702248c30be9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/a7/908dc9376aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b/c05226e430ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b0/f00000685deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b3/608a778331ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b3/80e19ec56deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b4/b05fbe9af8ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b4/e007df875deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b6/d04ce79d2eea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/b8/80ff8e5368eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ba/e0d059405ceb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/bf/e05bb2db00eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c2/7078bcdc09e9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c4/50ecefafcce9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c9/b02059d65beb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/c9/f0221cce68eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/cd/30dfe717c5eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d/f065332ba5e8001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d0/101922d3d0e9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d0/6055bed0c6eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d1/302e1b6b5eeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d3/304cbcc50ae9001d177ed552cc116bfc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/d4/b09e74c3d1e9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/dc/008562985eeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/dd/e0150d33c8e9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e/3093d2e6d1e9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e5/00088eb72dea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/e5/5081137b6aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ea/007121f76deb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ed/104dc7a3f8ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f1/b0f46dd46aeb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/f9/50df79e5f5ea001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/fc/c02680f400eb001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.history/ff/6039a31ccde9001d1d44cf2687901682" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_11_Introduction/.indexes/7/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_11_Introduction/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_11_Introduction/.indexes/e4/25/1c/29/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_11_Introduction/.indexes/e4/25/1c/92/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_11_Introduction/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_11_Introduction/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_11_Introduction/.markers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_11_Introduction/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_11_Introduction/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_12_UsingUtilClass/.indexes/7/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_12_UsingUtilClass/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_12_UsingUtilClass/.indexes/e4/25/1c/29/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_12_UsingUtilClass/.indexes/e4/25/1c/92/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_12_UsingUtilClass/.indexes/e4/25/1c/94/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_12_UsingUtilClass/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_12_UsingUtilClass/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_12_UsingUtilClass/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/.indexes/7/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/.indexes/e4/25/1c/29/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/.indexes/e4/25/1c/92/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/.indexes/e4/25/1c/94/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_14_GetApp/.indexes/7/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_14_GetApp/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_14_GetApp/.indexes/e4/25/1c/29/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_14_GetApp/.indexes/e4/25/1c/92/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_14_GetApp/.indexes/e4/25/1c/94/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_14_GetApp/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_14_GetApp/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_14_GetApp/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_15_LoadApp/.indexes/7/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_15_LoadApp/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_15_LoadApp/.indexes/e4/25/1c/29/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_15_LoadApp/.indexes/e4/25/1c/92/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_15_LoadApp/.indexes/e4/25/1c/94/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_15_LoadApp/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_15_LoadApp/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_15_LoadApp/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_16_UpdateApp/.indexes/7/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_16_UpdateApp/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_16_UpdateApp/.indexes/e4/25/1c/29/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_16_UpdateApp/.indexes/e4/25/1c/92/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_16_UpdateApp/.indexes/e4/25/1c/94/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_16_UpdateApp/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_16_UpdateApp/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_16_UpdateApp/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_17_SaveOrUpdateApp/.indexes/7/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_17_SaveOrUpdateApp/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_17_SaveOrUpdateApp/.indexes/e4/25/1c/29/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_17_SaveOrUpdateApp/.indexes/e4/25/1c/92/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_17_SaveOrUpdateApp/.indexes/e4/25/1c/94/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_17_SaveOrUpdateApp/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_17_SaveOrUpdateApp/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_17_SaveOrUpdateApp/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_18_DeleteApp/.indexes/7/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_18_DeleteApp/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_18_DeleteApp/.indexes/e4/25/1c/29/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_18_DeleteApp/.indexes/e4/25/1c/92/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_18_DeleteApp/.indexes/e4/25/1c/94/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_18_DeleteApp/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_18_DeleteApp/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_18_DeleteApp/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_19_DynamicUpdate/.indexes/7/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_19_DynamicUpdate/.indexes/af/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_19_DynamicUpdate/.indexes/e4/25/1c/29/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_19_DynamicUpdate/.indexes/e4/25/1c/92/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_19_DynamicUpdate/.indexes/e4/25/1c/94/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_19_DynamicUpdate/.indexes/e4/history.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_19_DynamicUpdate/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Hibernate_19_DynamicUpdate/.syncinfo.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.resources/1.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.sse.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.wst.xml.ui.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/1085951330.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/209342959.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/209342959.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/2206424184.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/2206424184.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/2346554007.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/2346554007.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/2825077280.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/2825077280.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/3873433795.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/3873433795.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/3960370364.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/3960370364.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/4264942749.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/4264942749.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/774797781.index" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/774797781.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.ltk.ui.refactoring/dialog_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.m2e.logback/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.m2e.logback/0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.pde.core/.cache/clean-cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.xml/system-catalog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.wildwebdeveloper.xml/system-catalog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.wst.sse.core/task-tags.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/.plugins/org.eclipse.wst.xml.core/system_catalog.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/.metadata/version.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/bin/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/bin/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/src/hibernate.cfg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/Hibernate_13_PersistApp_PregeneratedQuery_DynamicInsert/src/hibernate.cfg.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/Hibernate_17_SaveOrUpdateApp/bin/in/ineuron/test/SaveOrUpdateApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/Hibernate_17_SaveOrUpdateApp/bin/in/ineuron/test/SaveOrUpdateApp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/Hibernate_17_SaveOrUpdateApp/src/in/ineuron/test/SaveOrUpdateApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Java_04_Hibernate-Workspace/Hibernate_17_SaveOrUpdateApp/src/in/ineuron/test/SaveOrUpdateApp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2njQcwKvNGEeOCuKAg9iyXZfWfJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/amitkumarsingh/Documents/JavaLearningPrograms/Java_09_Junit/Junit_Project_01"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ec5ab95-3c4e-46e4-808e-3bdabc3e30d7" name="Changes" comment="" />
+      <created>1729484088201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729484088201</updated>
+    </task>
+    <servers />
+  </component>
+</project>
