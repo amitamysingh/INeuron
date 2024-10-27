@@ -1,9 +1,7 @@
 package ineuron.test;
 
 import ineuron.services.BankLoanService;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 
 import java.time.Duration;
 
@@ -11,11 +9,11 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class TestBankLoanService {
 
-    private BankLoanService bankLoanService;
+    private static BankLoanService bankLoanService;
 
-    @BeforeEach
-    public void setUp(){
-        System.out.println("TestBankLoanService.setUp()");
+    @BeforeAll
+    public static void setUp(){
+        System.out.println("**********TestBankLoanService.setUp()**********\n");
         bankLoanService = new BankLoanService();
     }
 
@@ -63,9 +61,9 @@ public class TestBankLoanService {
 
     }
 
-    @AfterEach
-    public void cleanUp(){
-        System.out.println("TestBankLoanService.cleanUp()");
+    @AfterAll
+    public static void cleanUp(){
+        System.out.println("**********TestBankLoanService.cleanUp()**********\n");
         bankLoanService = null;
     }
 
