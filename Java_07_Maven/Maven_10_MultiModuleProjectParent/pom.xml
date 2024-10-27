@@ -3,7 +3,12 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>in.ineuron</groupId>
   <artifactId>Maven_10_MultiModuleProjectParent</artifactId>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
+  <modules>
+
+    <module>WishWebApp</module>
+    <module>WishService</module>
+  </modules>
   <version>1.0-SNAPSHOT</version>
   <name>Maven_10_MultiModuleProjectParent Maven Webapp</name>
   <url>http://maven.apache.org</url>

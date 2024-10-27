@@ -2,20 +2,14 @@ package in.ineuron;
 
 import java.sql.*;
 
-import org.apache.log4j.ConsoleAppender;
-import org.apache.log4j.Level;
-import org.apache.log4j.Logger;
-import org.apache.log4j.SimpleLayout;
+import org.apache.log4j.*;
 
 public class JdbcApp {
 
     private static Logger logger= Logger.getLogger(JdbcApp.class);
 
     static{
-        SimpleLayout layout = new SimpleLayout();
-        ConsoleAppender appender = new ConsoleAppender(layout);
-        logger.addAppender(appender);
-        logger.setLevel(Level.DEBUG);
+        PropertyConfigurator.configure("/Users/amitkumarsingh/Documents/JavaLearningPrograms/Java_07_Maven/Maven_12_Log4jProperties/src/main/java/in/ineuron/cfgs/log4j.properties");
     }
 
     public static void main(String[] args) {

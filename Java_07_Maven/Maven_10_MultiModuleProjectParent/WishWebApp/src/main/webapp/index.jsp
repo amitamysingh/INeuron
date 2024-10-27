@@ -1,5 +1,4 @@
-<html>
-<body>
-<h2>Hello World!</h2>
-</body>
-</html>
+<%@ page import="com.pwskills.service.WishMessageService"%>
+<h1 style="color:red; text-align:center;">
+    <%= new WishMessageService().wishMessage("Sachin")%>
+</h1>

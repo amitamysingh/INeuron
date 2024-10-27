@@ -9,7 +9,7 @@ public class JdbcApp {
     private static Logger logger= Logger.getLogger(JdbcApp.class);
 
     static{
-        PropertyConfigurator.configure("/Users/amitkumarsingh/Documents/JavaLearningPrograms/Java_07_Maven/Maven_12_Log4jProperties/src/main/java/in/ineuron/cfgs/log4j.properties");
+        PropertyConfigurator.configure("/Users/amitkumarsingh/Documents/JavaLearningPrograms/Java_07_Maven/Maven_13_Log4jPropertiesMultipleLayoutAppender/src/main/java/in/ineuron/cfgs/log4j.properties");
     }
 
     public static void main(String[] args) {
