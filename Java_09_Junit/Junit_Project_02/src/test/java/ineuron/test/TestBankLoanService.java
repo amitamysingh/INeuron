@@ -22,8 +22,9 @@ public class TestBankLoanService {
     @DisplayName("TestingWithSmallNumbers")
     @Test
     @Order(1)
-    public void testcalculateSimpleIntrestWithSmallNumbers(){
-        System.out.println("TestBankLoanService.testcalculateSimpleIntrestWithSmallNumbers()");
+    @Tag("dev")
+    public void testcalculateSimpleIntrestWithSmallNumbers( TestInfo info){
+        System.out.println("TestBankLoanService.testcalculateSimpleIntrestWithSmallNumbers() "+info.getClass() + info.getTags());
         float actualOutput = bankLoanService.calculateSimpleIntrest(100000, 2, 12);
 
         //Following will throw error and not failure
@@ -41,6 +42,7 @@ public class TestBankLoanService {
     @Disabled
     @Test
     @Order(2)
+    @Tag("uat")
     public void testcalculateSimpleIntrestWithBigNumbers(){
         System.out.println("TestBankLoanService.testcalculateSimpleIntrestWithBigNumbers()");
 
@@ -55,6 +57,8 @@ public class TestBankLoanService {
     @DisplayName("Testing with Invalid inputs")
     @Test
     @Order(3)
+    @Tag("uat")
+    @Tag("dev")
     public void testcalculateSimpleIntrestWithInvalidInput(){
         System.out.println("TestBankLoanService.testcalculateSimpleIntrestWithInvalidInput()");
 
@@ -63,9 +67,10 @@ public class TestBankLoanService {
     }
 
     @DisplayName("Testing with Time Interval")
-    @Disabled
+   // @Disabled
     @Test
     @Order(4)
+    @Tag("dev")
     public void testcalculateSimpleIntrestWithinTimeInterval(){
         System.out.println("TestBankLoanService.testcalculateSimpleIntrestWithTimeInterval()");
 
