@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;Hibernate_31_GeneratorApp/src&apos;&#x0A;- Original project: &apos;Hibernate_17_SaveOrUpdateApp&apos;&#x0A;- Destination element: &apos;Hibernate_31_GeneratorApp/src&apos;&#x0A;- Original elements:&#x0A;     Hibernate_17_SaveOrUpdateApp/src/in.ineuron.test&#x0A;     Hibernate_17_SaveOrUpdateApp/src/in.ineuron.utility" description="Copy packages" destination="=Hibernate_31_GeneratorApp/src" element1="/src&lt;in.ineuron.test" element2="/src&lt;in.ineuron.utility" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1683518518969" version="1.0"/>
+</session>

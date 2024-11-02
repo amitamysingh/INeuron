@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.ineuron.test.SaveOrUpdateApp&apos; to &apos;TestApp&apos;&#x0A;- Original project: &apos;Hibernate_20_DBEntitySynchronization&apos;&#x0A;- Original element: &apos;in.ineuron.test.SaveOrUpdateApp&apos;&#x0A;- Renamed element: &apos;in.ineuron.test.TestApp&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SaveOrUpdateApp&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;in.ineuron.test{SaveOrUpdateApp.java[SaveOrUpdateApp" matchStrategy="1" name="TestApp" qualified="false" references="true" similarDeclarations="false" stamp="1683347465697" textual="false" version="1.0"/>
+</session>

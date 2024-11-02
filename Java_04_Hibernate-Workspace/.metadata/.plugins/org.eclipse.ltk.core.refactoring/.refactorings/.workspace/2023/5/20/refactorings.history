@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Hibernate_41_Versioning&apos; to &apos;Hibernate_42_Versioning&apos;" description="Rename resource &apos;Hibernate_41_Versioning&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/Hibernate_41_Versioning" name="Hibernate_42_Versioning" stamp="1684258674498" updateReferences="true"/>
+</session>

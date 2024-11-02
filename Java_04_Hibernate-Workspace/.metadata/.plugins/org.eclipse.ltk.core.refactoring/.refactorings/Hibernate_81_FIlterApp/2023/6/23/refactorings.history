@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;SelectAllHQLQuery.java&apos; to &apos;Hibernate_82_SoftDeletion/src/in.ineuron.test&apos;&#x0A;- Original project: &apos;Hibernate_81_FIlterApp&apos;&#x0A;- Destination element: &apos;Hibernate_82_SoftDeletion/src/in.ineuron.test&apos;&#x0A;- Original element: &apos;in.ineuron.test.SelectAllHQLQuery.java&apos;" description="Copy compilation unit" destination="=Hibernate_82_SoftDeletion/src&lt;in.ineuron.test" element1="/src&lt;in.ineuron.test{SelectAllHQLQuery.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1685854381451" units="1" version="1.0"/>
+</session>

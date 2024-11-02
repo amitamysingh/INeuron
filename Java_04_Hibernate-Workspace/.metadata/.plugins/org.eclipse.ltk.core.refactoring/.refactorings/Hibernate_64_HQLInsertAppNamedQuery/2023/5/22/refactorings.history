@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;InsertApp.java&apos; to &apos;Hibernate_71_NativeSQLQueryApp/src/in.ineuron.test&apos;&#x0A;- Original project: &apos;Hibernate_64_HQLInsertAppNamedQuery&apos;&#x0A;- Destination element: &apos;Hibernate_71_NativeSQLQueryApp/src/in.ineuron.test&apos;&#x0A;- Original element: &apos;in.ineuron.test.InsertApp.java&apos;" description="Copy compilation unit" destination="=Hibernate_71_NativeSQLQueryApp/src&lt;in.ineuron.test" element1="/src&lt;in.ineuron.test{InsertApp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1685334310799" units="1" version="1.0"/>
+</session>

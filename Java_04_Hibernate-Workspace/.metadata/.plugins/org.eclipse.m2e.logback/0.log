@@ -18,3 +18,5 @@ java.io.FileNotFoundException: /Users/amitkumarsingh/Documents/JavaLearningProgr
 	at org.eclipse.core.internal.resources.SaveManager.save(SaveManager.java:1149)
 	at org.eclipse.core.internal.resources.DelayedSnapshotJob.run(DelayedSnapshotJob.java:51)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2024-10-27 22:39:07,248 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-10-27 22:43:52,130 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
